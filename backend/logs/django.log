@@ -1,0 +1,185 @@
+INFO 2025-07-28 22:51:35,381 autoreload 9500 11180 Watching for file changes with StatReloader
+INFO 2025-07-28 22:57:44,421 autoreload 4696 20012 Watching for file changes with StatReloader
+INFO 2025-07-28 22:58:32,619 autoreload 27736 27816 Watching for file changes with StatReloader
+INFO 2025-07-28 23:09:11,895 autoreload 13384 15632 Watching for file changes with StatReloader
+INFO 2025-07-28 23:14:04,971 autoreload 6312 24604 Watching for file changes with StatReloader
+WARNING 2025-07-28 23:16:24,738 log 6312 16964 Not Found: /
+WARNING 2025-07-28 23:16:24,891 log 6312 16964 Not Found: /favicon.ico
+INFO 2025-07-29 16:18:33,054 autoreload 9124 21704 Watching for file changes with StatReloader
+WARNING 2025-07-29 16:19:25,719 log 9124 12772 Not Found: /
+WARNING 2025-07-29 16:19:25,921 log 9124 12772 Not Found: /favicon.ico
+WARNING 2025-07-29 16:19:47,818 log 9124 12772 Not Found: /.well-known/appspecific/com.chrome.devtools.json
+INFO 2025-07-29 16:21:20,526 autoreload 9124 21704 C:\Users\lokes\OneDrive\Desktop\EPICS_PROJECT\backend\eco_api\urls.py changed, reloading.
+INFO 2025-07-29 16:21:23,452 autoreload 5576 11044 Watching for file changes with StatReloader
+INFO 2025-07-29 16:21:25,151 autoreload 5576 11044 C:\Users\lokes\OneDrive\Desktop\EPICS_PROJECT\backend\eco_api\urls.py changed, reloading.
+INFO 2025-07-29 16:21:26,591 autoreload 19208 11480 Watching for file changes with StatReloader
+WARNING 2025-07-29 16:21:49,802 log 19208 27884 Not Found: /
+INFO 2025-07-29 16:21:56,838 autoreload 19208 11480 C:\Users\lokes\OneDrive\Desktop\EPICS_PROJECT\backend\eco_api\urls.py changed, reloading.
+INFO 2025-07-29 16:22:01,468 autoreload 17728 18304 Watching for file changes with StatReloader
+INFO 2025-07-29 16:22:08,808 autoreload 5424 15564 Watching for file changes with StatReloader
+WARNING 2025-07-29 16:22:34,638 log 5424 20604 Not Found: /
+WARNING 2025-07-29 16:22:34,837 log 5424 20604 Not Found: /favicon.ico
+WARNING 2025-07-29 16:22:59,601 log 5424 9140 Not Found: /
+WARNING 2025-07-29 16:22:59,835 log 5424 9140 Not Found: /favicon.ico
+INFO 2025-07-29 16:23:35,634 autoreload 5424 15564 C:\Users\lokes\OneDrive\Desktop\EPICS_PROJECT\backend\eco_api\urls.py changed, reloading.
+INFO 2025-07-29 16:23:38,269 autoreload 4764 2604 Watching for file changes with StatReloader
+INFO 2025-07-29 16:38:29,403 autoreload 6956 516 Watching for file changes with StatReloader
+INFO 2025-07-29 16:49:50,801 autoreload 18632 9176 Watching for file changes with StatReloader
+WARNING 2025-07-29 16:59:34,062 log 18632 16272 Not Found: /favicon.ico
+WARNING 2025-07-29 16:59:34,332 log 18632 2672 Not Found: /manifest.json
+WARNING 2025-07-29 17:02:12,605 log 18632 12908 Not Found: /manifest.json
+WARNING 2025-07-29 17:03:14,225 log 18632 5632 Not Found: /main.b81917bde2fbd8012e2d.hot-update.json
+WARNING 2025-07-29 17:03:15,766 log 18632 25984 Not Found: /manifest.json
+WARNING 2025-07-29 17:03:16,458 log 18632 21820 Not Found: /manifest.json
+INFO 2025-07-29 17:05:17,206 autoreload 13728 7672 Watching for file changes with StatReloader
+WARNING 2025-07-29 17:05:56,326 log 13728 25136 Not Found: /favicon.ico
+WARNING 2025-07-29 17:05:56,593 log 13728 12172 Not Found: /manifest.json
+INFO 2025-07-29 17:12:04,738 autoreload 19032 29008 Watching for file changes with StatReloader
+WARNING 2025-07-29 17:12:45,333 log 19032 30124 Not Found: /favicon.ico
+WARNING 2025-07-29 17:12:45,528 log 19032 29980 Not Found: /manifest.json
+WARNING 2025-07-29 17:13:28,515 log 19032 11652 Not Found: /manifest.json
+INFO 2025-07-29 20:04:24,944 autoreload 7648 4544 Watching for file changes with StatReloader
+WARNING 2025-07-29 20:05:28,030 log 7648 21592 Not Found: /favicon.ico
+WARNING 2025-07-29 20:05:28,295 log 7648 2892 Not Found: /manifest.json
+WARNING 2025-07-29 20:05:28,551 log 7648 8132 Unauthorized: /api/auth/profile/
+WARNING 2025-07-29 20:05:28,556 log 7648 8132 Unauthorized: /api/auth/profile/
+WARNING 2025-07-29 20:09:12,728 log 7648 28968 Not Found: /manifest.json
+WARNING 2025-07-29 20:16:18,564 log 7648 21288 Not Found: /favicon.ico
+WARNING 2025-07-29 20:16:18,857 log 7648 14164 Unauthorized: /api/auth/profile/
+WARNING 2025-07-29 20:16:18,861 log 7648 14164 Unauthorized: /api/auth/profile/
+WARNING 2025-07-29 20:16:18,875 log 7648 3372 Not Found: /manifest.json
+WARNING 2025-07-29 20:16:29,167 log 7648 14164 Unauthorized: /api/auth/login/
+WARNING 2025-07-29 20:16:29,186 log 7648 18216 Unauthorized: /api/auth/token/refresh/
+WARNING 2025-07-29 20:16:29,302 log 7648 26620 Not Found: /manifest.json
+INFO 2025-07-29 20:16:50,307 autoreload 17144 5820 Watching for file changes with StatReloader
+WARNING 2025-07-29 20:17:13,533 log 17144 16624 Not Found: /favicon.ico
+WARNING 2025-07-29 20:17:13,782 log 17144 27060 Not Found: /manifest.json
+INFO 2025-07-29 20:19:41,976 autoreload 10024 3912 Watching for file changes with StatReloader
+WARNING 2025-07-29 20:20:47,706 log 17144 24372 Not Found: /manifest.json
+WARNING 2025-07-29 20:21:45,174 log 17144 22716 Not Found: /manifest.json
+WARNING 2025-07-29 20:21:45,180 log 17144 3948 Not Found: /favicon.ico
+WARNING 2025-07-29 20:21:45,911 log 17144 18216 Not Found: /manifest.json
+WARNING 2025-07-29 20:21:46,251 log 17144 26620 Not Found: /manifest.json
+WARNING 2025-07-29 20:21:46,398 log 17144 11688 Not Found: /manifest.json
+WARNING 2025-07-29 20:21:46,558 log 17144 22640 Not Found: /manifest.json
+WARNING 2025-07-29 20:21:46,722 log 17144 9588 Not Found: /manifest.json
+WARNING 2025-07-29 20:21:46,891 log 17144 23296 Not Found: /manifest.json
+WARNING 2025-07-29 20:21:47,114 log 17144 2008 Not Found: /manifest.json
+WARNING 2025-07-29 20:22:43,421 log 17144 12852 Not Found: /favicon.ico
+WARNING 2025-07-29 20:22:43,713 log 17144 27104 Not Found: /manifest.json
+WARNING 2025-07-29 20:23:35,530 log 17144 9136 Not Found: /favicon.ico
+INFO 2025-07-29 20:26:06,410 autoreload 22544 12912 Watching for file changes with StatReloader
+WARNING 2025-07-29 20:26:33,676 log 22544 19616 Not Found: /favicon.ico
+WARNING 2025-07-29 20:26:33,988 log 22544 29416 Not Found: /manifest.json
+WARNING 2025-07-29 20:26:34,039 log 22544 29588 Unauthorized: /api/auth/profile/
+WARNING 2025-07-29 20:26:34,042 log 22544 29588 Unauthorized: /api/auth/profile/
+WARNING 2025-07-29 20:31:01,780 log 22544 17764 Not Found: /favicon.ico
+WARNING 2025-07-29 20:31:02,093 log 22544 23392 Not Found: /manifest.json
+WARNING 2025-07-29 20:31:03,585 log 22544 21316 Not Found: /manifest.json
+WARNING 2025-07-29 20:31:24,785 log 22544 21552 Not Found: /favicon.ico
+WARNING 2025-07-29 20:31:25,102 log 22544 28464 Not Found: /manifest.json
+WARNING 2025-07-29 20:31:32,200 log 22544 2820 Not Found: /favicon.ico
+WARNING 2025-07-29 20:31:32,531 log 22544 29120 Not Found: /manifest.json
+INFO 2025-07-30 13:19:13,710 autoreload 24108 29736 Watching for file changes with StatReloader
+WARNING 2025-07-30 13:20:14,157 log 24108 5484 Not Found: /favicon.ico
+WARNING 2025-07-30 13:20:14,429 log 24108 21600 Not Found: /manifest.json
+WARNING 2025-07-30 13:20:14,704 log 24108 25092 Unauthorized: /api/auth/profile/
+WARNING 2025-07-30 13:20:14,711 log 24108 8004 Unauthorized: /api/auth/profile/
+WARNING 2025-07-30 13:20:26,636 log 24108 19624 Not Found: /favicon.ico
+WARNING 2025-07-30 13:22:21,281 log 24108 26572 Not Found: /favicon.ico
+WARNING 2025-07-30 13:22:21,605 log 24108 26456 Not Found: /manifest.json
+WARNING 2025-07-30 13:29:45,662 log 24108 9740 Not Found: /favicon.ico
+WARNING 2025-07-30 13:29:46,004 log 24108 3300 Not Found: /manifest.json
+WARNING 2025-07-30 13:36:13,037 log 24108 19772 Not Found: /favicon.ico
+WARNING 2025-07-30 13:44:57,205 log 24108 10336 Not Found: /favicon.ico
+WARNING 2025-07-30 13:44:57,435 log 24108 18664 Not Found: /manifest.json
+WARNING 2025-07-30 13:45:07,353 log 24108 26064 Not Found: /favicon.ico
+WARNING 2025-07-30 13:45:07,628 log 24108 9592 Not Found: /manifest.json
+WARNING 2025-07-30 13:45:14,995 log 24108 14468 Not Found: /favicon.ico
+INFO 2025-07-31 12:05:57,391 autoreload 1084 1172 Watching for file changes with StatReloader
+WARNING 2025-07-31 12:06:40,953 log 1084 18500 Not Found: /favicon.ico
+WARNING 2025-07-31 12:06:57,428 log 1084 19268 Not Found: /favicon.ico
+WARNING 2025-07-31 12:07:23,225 log 1084 11820 Not Found: /favicon.ico
+WARNING 2025-07-31 12:07:23,531 log 1084 9068 Not Found: /manifest.json
+INFO 2025-08-02 09:48:04,280 autoreload 3232 8960 Watching for file changes with StatReloader
+WARNING 2025-08-02 09:50:06,253 log 3232 12064 Not Found: /favicon.ico
+WARNING 2025-08-02 09:50:06,294 log 3232 12708 Not Found: /manifest.json
+WARNING 2025-08-02 09:50:24,947 log 3232 20792 Not Found: /manifest.json
+WARNING 2025-08-02 09:51:17,024 log 3232 20900 Not Found: /manifest.json
+WARNING 2025-08-02 10:34:09,183 log 3232 12256 Not Found: /favicon.ico
+WARNING 2025-08-02 10:34:09,455 log 3232 9672 Not Found: /manifest.json
+WARNING 2025-08-02 10:34:34,607 log 3232 21096 Not Found: /favicon.ico
+WARNING 2025-08-02 10:34:34,926 log 3232 5204 Not Found: /manifest.json
+INFO 2025-08-02 10:34:53,414 autoreload 8824 536 Watching for file changes with StatReloader
+WARNING 2025-08-02 10:35:36,847 log 8824 16120 Not Found: /favicon.ico
+WARNING 2025-08-02 10:35:36,849 log 8824 6764 Not Found: /manifest.json
+WARNING 2025-08-02 10:36:15,954 log 8824 22636 Not Found: /manifest.json
+WARNING 2025-08-02 10:36:21,512 log 8824 3356 Not Found: /manifest.json
+INFO 2025-08-02 10:43:07,858 autoreload 8824 536 C:\Users\lokes\OneDrive\Desktop\EPICS_PROJECT\backend\eco_api\settings.py changed, reloading.
+INFO 2025-08-02 10:43:09,468 autoreload 14468 25420 Watching for file changes with StatReloader
+INFO 2025-08-02 10:43:56,980 autoreload 14468 25420 C:\Users\lokes\OneDrive\Desktop\EPICS_PROJECT\backend\users\views.py changed, reloading.
+INFO 2025-08-02 10:43:58,454 autoreload 16440 16376 Watching for file changes with StatReloader
+INFO 2025-08-02 10:49:17,048 autoreload 16572 9452 Watching for file changes with StatReloader
+WARNING 2025-08-02 10:49:46,955 log 16572 18788 Not Found: /manifest.json
+WARNING 2025-08-02 10:50:16,628 log 16572 18112 Not Found: /favicon.ico
+WARNING 2025-08-02 10:50:16,921 log 16572 11204 Not Found: /manifest.json
+WARNING 2025-08-02 10:50:24,545 log 16572 15248 Not Found: /manifest.json
+INFO 2025-08-02 11:07:50,729 autoreload 5452 17580 Watching for file changes with StatReloader
+WARNING 2025-08-02 11:08:22,369 log 5452 20048 Not Found: /favicon.ico
+WARNING 2025-08-02 11:08:22,622 log 5452 25252 Not Found: /manifest.json
+WARNING 2025-08-02 11:08:40,100 log 5452 436 Not Found: /manifest.json
+WARNING 2025-08-02 11:08:49,287 log 5452 18948 Not Found: /manifest.json
+WARNING 2025-08-02 11:08:50,186 log 5452 4544 Not Found: /manifest.json
+WARNING 2025-08-02 11:08:50,905 log 5452 9728 Not Found: /manifest.json
+WARNING 2025-08-02 11:08:51,604 log 5452 14008 Not Found: /manifest.json
+WARNING 2025-08-02 11:08:52,289 log 5452 19184 Not Found: /manifest.json
+WARNING 2025-08-02 11:08:52,965 log 5452 20688 Not Found: /manifest.json
+WARNING 2025-08-02 11:08:53,453 log 5452 8748 Not Found: /manifest.json
+WARNING 2025-08-02 11:08:53,628 log 5452 6052 Not Found: /manifest.json
+WARNING 2025-08-02 11:08:53,789 log 5452 13744 Not Found: /manifest.json
+WARNING 2025-08-02 11:13:11,431 log 5452 21332 Method Not Allowed: /api/auth/token/
+WARNING 2025-08-02 11:13:13,463 log 5452 22492 Unauthorized: /api/auth/profile/
+WARNING 2025-08-02 11:13:15,502 log 5452 22420 Method Not Allowed: /api/auth/logout/
+INFO 2025-08-02 11:18:36,779 autoreload 24832 15556 Watching for file changes with StatReloader
+WARNING 2025-08-02 11:19:04,987 log 24832 11344 Not Found: /favicon.ico
+WARNING 2025-08-02 11:19:05,241 log 24832 15840 Not Found: /manifest.json
+WARNING 2025-08-02 11:19:26,290 log 24832 22012 Not Found: /manifest.json
+WARNING 2025-08-02 11:19:38,723 log 24832 16212 Not Found: /manifest.json
+WARNING 2025-08-02 11:27:03,865 log 24832 22132 Unauthorized: /api/auth/token/
+INFO 2025-08-02 11:44:46,328 autoreload 15568 7176 Watching for file changes with StatReloader
+WARNING 2025-08-02 11:46:20,206 log 15568 21984 Not Found: /favicon.ico
+WARNING 2025-08-02 11:46:20,456 log 15568 20164 Not Found: /manifest.json
+WARNING 2025-08-02 11:46:43,645 log 15568 3212 Unauthorized: /api/auth/token/
+WARNING 2025-08-02 11:47:00,140 log 15568 3212 Unauthorized: /api/auth/token/
+WARNING 2025-08-02 11:47:58,062 log 15568 24948 Not Found: /manifest.json
+WARNING 2025-08-02 11:47:58,942 log 15568 12212 Not Found: /manifest.json
+WARNING 2025-08-02 11:47:59,676 log 15568 21644 Not Found: /manifest.json
+WARNING 2025-08-02 11:48:00,489 log 15568 17776 Not Found: /manifest.json
+INFO 2025-08-02 11:49:31,955 autoreload 16372 18180 Watching for file changes with StatReloader
+WARNING 2025-08-02 11:49:59,774 log 16372 24984 Not Found: /manifest.json
+WARNING 2025-08-02 11:50:12,358 log 16372 18792 Not Found: /manifest.json
+WARNING 2025-08-02 11:50:12,567 log 16372 14380 Not Found: /manifest.json
+WARNING 2025-08-02 11:50:13,471 log 16372 8692 Not Found: /manifest.json
+WARNING 2025-08-02 11:50:14,216 log 16372 6808 Not Found: /manifest.json
+WARNING 2025-08-02 11:50:14,921 log 16372 20032 Not Found: /manifest.json
+WARNING 2025-08-02 11:50:15,503 log 16372 9256 Not Found: /manifest.json
+WARNING 2025-08-02 11:50:15,725 log 16372 10532 Not Found: /manifest.json
+WARNING 2025-08-02 11:50:30,113 log 16372 24844 Not Found: /manifest.json
+WARNING 2025-08-02 11:59:25,758 log 16372 1648 Not Found: /favicon.ico
+WARNING 2025-08-02 11:59:26,039 log 16372 10064 Not Found: /manifest.json
+INFO 2025-08-08 15:48:27,850 autoreload 9348 20032 Watching for file changes with StatReloader
+WARNING 2025-08-08 15:49:38,445 log 9348 10692 Not Found: /manifest.json
+WARNING 2025-08-08 15:49:38,450 log 9348 12432 Not Found: /favicon.ico
+INFO 2025-09-08 19:36:52,118 autoreload 18112 11232 Watching for file changes with StatReloader
+WARNING 2025-09-08 19:39:26,321 log 18112 10336 Not Found: /manifest.json
+WARNING 2025-09-08 19:40:01,853 log 18112 7244 Not Found: /favicon.ico
+WARNING 2025-09-08 19:40:01,855 log 18112 22416 Not Found: /manifest.json
+WARNING 2025-09-08 19:40:01,882 log 18112 20180 Not Found: /favicon.ico
+WARNING 2025-09-08 19:40:30,074 log 18112 5976 Not Found: /manifest.json
+WARNING 2025-09-08 19:40:59,848 log 18112 9748 Bad Request: /api/auth/register/
+WARNING 2025-09-08 19:41:03,134 log 18112 9748 Bad Request: /api/auth/register/
+WARNING 2025-09-08 19:41:03,999 log 18112 9748 Bad Request: /api/auth/register/
+WARNING 2025-09-08 19:41:04,709 log 18112 9748 Bad Request: /api/auth/register/
+WARNING 2025-09-08 19:41:05,824 log 18112 9748 Bad Request: /api/auth/register/
+WARNING 2025-09-08 19:41:10,251 log 18112 9748 Bad Request: /api/auth/register/
+WARNING 2025-09-08 19:41:15,533 log 18112 9748 Bad Request: /api/auth/register/
